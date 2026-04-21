@@ -114,7 +114,8 @@ User → AI Copilot UI → Script Include (AI Engine) → Digital Twin → Decis
 - Incident form with AI Copilot buttons  
 - AI outputs (Explain / Recommend / Predict)  
 - Digital Twin record  
-- Dashboard  
+- Dashboard
+Added in the Screenshots folder
 
 ---
 
