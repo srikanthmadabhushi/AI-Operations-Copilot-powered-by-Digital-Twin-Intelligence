@@ -138,6 +138,33 @@ Added in the Screenshots folder
 - Automation & Workflow Design  
 
 ---
+## 🏗️ Architecture Diagram
+
+User (ServiceNow UI)
+│
+▼
+AI Copilot (UI Actions)
+│
+▼
+Script Include (AICopilot Engine)
+│
+├───────────────┐
+▼ ▼
+Digital Twin Table Incident Table
+(Risk, Health, (Priority, State,
+Anomaly Scores) Assignment)
+│
+▼
+Decision Logic Engine
+(Explain • Recommend • Predict)
+│
+▼
+AI Response Generation
+│
+▼
+Populate Incident Fields
+(AI Summary • Recommendation • Explanation)
+---
 
 ## 💼 Business Value
 
